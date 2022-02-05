@@ -134,3 +134,38 @@ ctrl D pra selecionar varias coisas e apagar ao mesmo tempo
 box-sizing: border-box boa pratica no *
 margin:0; reset css
 padding:0; reset css
+
+todo css dentro do @media sobrepoem os outros.
+@media (max-widht: 768px) {
+    h1{
+        color:black
+    }
+}
+
+.fixo {
+    background:green;
+    position:fixed;
+    right:0
+}
+
+aplicar padding para não sobrepor desde o começo
+ou top varios px 
+e right varios pxaaaaaaaaa
+
+padding pra dentro
+margin pra fora
+
+
+ls = ver as pastas 
+cd = qual pasta eu quero ir 
+dir = lista arquivos na pasta atual
+mkdir = criar pasta
+cd.. = voltar para pasta anterior
+touch = criar arquivo (toach teste.txt)
+cp = copiar pasta 
+mv = mover arquivo ou renomeia
+rm = apaga arquivo
+rm -r = apaga pasta
+cat = mostra o conteudo do arquivo
+nano = editor de texto
+code = abrir vs code 

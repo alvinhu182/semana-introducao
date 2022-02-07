@@ -34,6 +34,7 @@ h1 {
 .imagem-principal{
     display: flex;
     justify-content: center;
+    max-width: 100%;
 }
 
     
@@ -44,6 +45,7 @@ h2 {
 h3 {
     font-size:26px;
     background-color: aquamarine;
+    margin-top: 0;
 }
 p {
     font-size:22px;
@@ -53,6 +55,7 @@ p {
     display: flex;
     justify-content: center;
     min-width: 1000px;
+    max-width: 100%;
 }
 .video-principal{
     display: flex;
@@ -80,7 +83,7 @@ max-height: 100%;
 }    
 
 div {
-    padding: 40px 0;
+    padding: 0;
 }
 
 .newsletter{

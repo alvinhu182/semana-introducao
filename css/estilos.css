@@ -16,6 +16,8 @@ h1 {
     font-size:45px ;
     display: flex;
     justify-content: center;
+    background-color: aquamarine;
+    margin-top: 0px;
 }
 .mesma-linha {
     display: flex;

@@ -10,6 +10,7 @@
 
 body{
     font-family: "Bai Jamjuree",Roboto,Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    background-color: beige;
     
 }
 h1 {
@@ -83,7 +84,7 @@ max-height: 100%;
 }    
 
 div {
-    padding: 0;
+    padding: 40px 0;
 }
 
 .newsletter{

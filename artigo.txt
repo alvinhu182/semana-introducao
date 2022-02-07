@@ -169,3 +169,4 @@ rm -r = apaga pasta
 cat = mostra o conteudo do arquivo
 nano = editor de texto
 code = abrir vs code 
+xpeedschool
